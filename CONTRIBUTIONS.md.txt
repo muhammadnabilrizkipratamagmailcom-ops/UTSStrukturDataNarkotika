@@ -1,0 +1,30 @@
+# CONTRIBUTIONS
+
+## Identitas Proyek
+
+- Nama: Muhammad Nabil Rizki Pratama
+- NIM: 202510370110094
+- Proyek: UTS Struktur Data Putusan Pidana Narkotika
+- Pengadilan: Pengadilan Negeri Balikpapan
+
+## Kontribusi Anggota
+
+NAMA: Muhammad Nabil Rizki Pratama
+
+Tugas yang dikerjakan:
+- Membuat struktur proyek Java.
+- Mengimplementasikan struktur data Linked List dan Stack.
+- Membuat fitur pencarian dan pengurutan data putusan.
+- Membuat fitur tambah, hapus, filter, statistik, dan ekspor CSV.
+- Menyiapkan dataset dan dokumentasi proyek.
+- Melakukan pengujian program.
+
+## Riwayat GitHub
+
+- Repository: [Isi URL repository GitHub]
+- Issue: [Isi tautan issue jika ada]
+- Pull Request: [Isi tautan PR jika ada]
+- Review: [Isi tautan review jika ada]
+- Main Commit: [Isi tautan commit utama]
+
+Catatan: Tautan GitHub dilengkapi setelah repository dibuat. Jangan mengarang tautan.
